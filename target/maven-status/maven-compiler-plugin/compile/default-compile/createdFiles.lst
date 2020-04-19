@@ -1,0 +1,4 @@
+org/example/springboot/helloworldapp/bean/AuthenticationBean.class
+org/example/springboot/helloworldapp/config/SpringSecurityConfig.class
+org/example/springboot/helloworldapp/Application.class
+org/example/springboot/helloworldapp/controller/BasicAuthController.class
